@@ -16,7 +16,7 @@ body {
 #info_text {
     /* margin: 100px 50px 100px 50px; */
     color: blueviolet;
-    animation: fade 500ms infinite linear;
+    animation: fade 1500ms infinite linear;
 
 }
 
