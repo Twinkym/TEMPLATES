@@ -14,10 +14,10 @@ body {
 }
 
 #info_text {
-    margin: 100px 50px 100px 50px;
+    /* margin: 100px 50px 100px 50px; */
     color: blueviolet;
-    animation-name: fade;
-    animation-duration: 2s;
+    animation-name: fade 500ms infinite linear;
+
 }
 
 .loading_animation {
