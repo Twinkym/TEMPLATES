@@ -1,0 +1,3 @@
+# TEMPLATES
+
+In this repo I share all my templates sites & snippets codes like site_loaders, 404_sites, galeries(grid_&_flex), animations, web3 etc...
