@@ -13,6 +13,13 @@ body {
     text-align: center;
 }
 
+#info_text {
+    margin: 100px 50px 100px 50px;
+    color: blueviolet;
+    animation-name: fade;
+    animation-duration: 2s;
+}
+
 .loading_animation {
     width: 35px;
     height: 35px;
@@ -27,5 +34,15 @@ body {
 @keyframes rotate {
     to {
         transform: rotate(1turn);
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
     }
 }
